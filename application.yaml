@@ -1,0 +1,6 @@
+system:
+  uploadPath: /doc/image
+  uploadAudioPath: /doc/audio
+  uploadAppPath: /doc/app
+  uploadDevlog: /doc/devlog
+  uploadSize: 20480KB
