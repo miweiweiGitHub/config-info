@@ -1,3 +1,8 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.01:6002/eureka/
+
 system:
   uploadPath: /doc/image
   uploadAudioPath: /doc/audio
